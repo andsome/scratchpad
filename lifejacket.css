@@ -1,6 +1,4 @@
-#container{
-	width: 600px !important;
-}
+
 body{
 	background-color: #EFEFEF;
 }
@@ -8,4 +6,7 @@ body{
 html {
 	background-color: #EFEFEF;
 
+}
+#container{
+	width: 600px;
 }
